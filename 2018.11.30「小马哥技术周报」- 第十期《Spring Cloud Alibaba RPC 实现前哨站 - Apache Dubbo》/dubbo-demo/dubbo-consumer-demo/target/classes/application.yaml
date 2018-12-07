@@ -1,0 +1,18 @@
+server:
+  port: 9090
+
+echo:
+  service:
+    version: 1.0.0
+
+
+dubbo:
+  application:
+    id: dubbo-consumer-demo
+    name: dubbo-consumer-demo
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

@@ -1,0 +1,9 @@
+echo:
+  service:
+    version: 1.0.0
+
+
+management:
+  endpoint:
+    dubbo-services:
+      enabled: true
