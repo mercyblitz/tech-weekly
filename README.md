@@ -2,7 +2,7 @@
 
 「小马哥技术周报」是小马哥在斗鱼平台的技术分享直播，通常时间安排在每周五晚上八点半，具体通知请关注微信公众号：次灵均阁
 
-<img src="https://mercyblitz.github.io/books/thinking-in-spring-boot/assets/my_mp_qrcode.jpg" width="150" height="150" />
+<img src="https://mercyblitz.github.io/books/thinking-in-spring-boot/assets/my_mp_qrcode.jpg" width="150" height="150" align="middle">次灵均阁</img>
 
 
 
