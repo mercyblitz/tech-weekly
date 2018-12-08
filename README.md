@@ -1,14 +1,15 @@
 # 「小马哥技术周报」
 
-「小马哥技术周报」是[小马哥](https://mercyblitz.github.io/about/)在斗鱼平台的技术分享直播，通常时间安排在每周五晚上八点半。
+「小马哥技术周报」是小马哥在斗鱼平台的技术分享直播，通常时间安排在每周五晚上八点半，具体通知请关注微信公众号：次灵均阁
+
+<img src="https://mercyblitz.github.io/books/thinking-in-spring-boot/assets/my_mp_qrcode.jpg" width="150" height="150" />
 
 
 
 
 ## 主播介绍
 
-小马哥，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
-
+[小马哥](https://mercyblitz.github.io/about/)，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师。目前主要负责集团中间件开源项目、微服务技术实施、架构衍进、基础设施构建等。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
 
 > [斗鱼直播](https://www.douyu.com/mercyblitz)
 > 
