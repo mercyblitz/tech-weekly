@@ -17,9 +17,19 @@
 
 
 
+## 沟通交流
+
+- “Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
+- “Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
+- “Nacos社区群”群的钉钉群号： 21708933
+- “Sentinel开源讨论群”群的钉钉群号： 21977771
+
+
+
+
 ## 往期录播
 
-- [2018-12-07 第十一期 - Apache Dubbo 微服务系列之遇见 Nacos：服务治理新鲜货](#)
+- [2018-12-07 第十一期 - Apache Dubbo 微服务系列之遇见 Nacos：服务治理新鲜货](https://www.bilibili.com/video/av37654812)
 - [2018-11-30 第十期 - Spring Cloud Alibaba RPC 实现前哨站](https://www.bilibili.com/video/av37235663)
 - [2018-11-23 第九期 - Spring Cloud Bus Alibaba 实现](https://www.bilibili.com/video/av36616156)
 - [2018-11-16 第八期 - Spring Cloud Stream Binder Alibaba 实现](https://www.bilibili.com/video/av36114167)
@@ -31,16 +41,6 @@
 - [2018-10-05 第三期 - 超越外部化配置 - Nacos Spring Stack](https://www.bilibili.com/video/av33216900)
 - [2018-09-28 第二期 - Spring Cloud 分布式配置新选择 - Alibaba Nacos Config](https://www.bilibili.com/video/av32723734)
 - [2018-09-21 第一期 - Spring Cloud 服务发现新选择 - Alibaba Nacos Discovery](https://www.bilibili.com/video/av32191103)
-
-
-
-
-## 沟通交流
-
-- “Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
-- “Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
-- “Nacos社区群”群的钉钉群号： 21708933
-- “Sentinel开源讨论群”群的钉钉群号： 21977771
 
 
 
