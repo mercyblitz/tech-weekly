@@ -31,7 +31,7 @@
 
 ## 往期录播
 
-- [2018.12.14 第十二期 - Apache Dubbo 微服务系列之运维平台：Dubbo OPS](https://www.bilibili.com/video/av38171797)
+- [2018-12-14 第十二期 - Apache Dubbo 微服务系列之运维平台：Dubbo OPS](https://www.bilibili.com/video/av38171797)
 - [2018-12-07 第十一期 - Apache Dubbo 微服务系列之遇见 Nacos：服务治理新鲜货](https://www.bilibili.com/video/av37654812)
 - [2018-11-30 第十期 - Spring Cloud Alibaba RPC 实现前哨站](https://www.bilibili.com/video/av37235663)
 - [2018-11-23 第九期 - Spring Cloud Bus Alibaba 实现](https://www.bilibili.com/video/av36616156)
