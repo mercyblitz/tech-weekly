@@ -1,0 +1,17 @@
+
+dubbo:
+  application:
+    qos-enable: false
+  scan:
+    base-packages: mercyblitz.tech.weekly.dubbo.spring.cloud.rest.provider.service
+  config:
+    multiple: true
+  protocols:
+    dubbo:
+      name: dubbo
+      port: -1
+    rest:
+      name: rest
+      port: 7071
+  registry:
+    address: nacos://127.0.0.1:8848

@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+mercyblitz.tech.weekly.dubbo.spring.cloud.rest.provider.autoconfigure.NonWebNacosDiscoveryAutoConfiguration
