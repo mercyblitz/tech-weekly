@@ -30,6 +30,7 @@
 
 
 ## 往期录播
+- [2019-01-04 第十五期 - Apache Dubbo 微服务系列之 Dubbo 与 Spring Cloud 整合](https://www.bilibili.com/video/av39934592)
 - [2018-12-28 第十四期 - Apache Dubbo 微服务系列之 Dubbo 服务熔断](https://www.bilibili.com/video/av39265068)
 - [2018-12-21 第十三期 - Apache Dubbo 微服务系列之 Dubbo 诊断工具Arthas](https://www.bilibili.com/video/av38706424)
 - [2018-12-14 第十二期 - Apache Dubbo 微服务系列之运维平台：Dubbo OPS](https://www.bilibili.com/video/av38171797)
