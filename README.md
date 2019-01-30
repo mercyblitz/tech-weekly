@@ -21,16 +21,21 @@
 
 ## 沟通交流
 
-- “Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
-- “Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
-- “Nacos社区群”群的钉钉群号： 21708933
-- “Sentinel开源讨论群”群的钉钉群号： 21977771
+- Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
+- Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
+- Nacos社区群”群的钉钉群号： `21708933`
+- Sentinel开源讨论群”群的钉钉群号： `21977771`
 
 
 
 
 ## 往期录播
-
+- [2019.01.25 第十八期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现总结](https://www.bilibili.com/video/av41832154)
+- [2019.01.18 第十七期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现（下）](https://www.bilibili.com/video/av41107520)
+- [2019.01.11 第十六期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现](https://www.bilibili.com/video/av40513576)
+- [2019-01-04 第十五期 - Apache Dubbo 微服务系列之 Dubbo 与 Spring Cloud 整合](https://www.bilibili.com/video/av39934592)
+- [2018-12-28 第十四期 - Apache Dubbo 微服务系列之 Dubbo 服务熔断](https://www.bilibili.com/video/av39265068)
+- [2018-12-21 第十三期 - Apache Dubbo 微服务系列之 Dubbo 诊断工具Arthas](https://www.bilibili.com/video/av38706424)
 - [2018-12-14 第十二期 - Apache Dubbo 微服务系列之运维平台：Dubbo OPS](https://www.bilibili.com/video/av38171797)
 - [2018-12-07 第十一期 - Apache Dubbo 微服务系列之遇见 Nacos：服务治理新鲜货](https://www.bilibili.com/video/av37654812)
 - [2018-11-30 第十期 - Spring Cloud Alibaba RPC 实现前哨站](https://www.bilibili.com/video/av37235663)

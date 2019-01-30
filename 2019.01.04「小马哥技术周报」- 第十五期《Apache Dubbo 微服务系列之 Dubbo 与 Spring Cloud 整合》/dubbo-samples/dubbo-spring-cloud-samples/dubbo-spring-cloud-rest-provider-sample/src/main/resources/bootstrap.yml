@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: dubbo-spring-cloud-rest-provider-sample
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+#      config:
+#        server-addr: 127.0.0.1:8848
+
+server:
+  port: 6666

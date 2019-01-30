@@ -1,0 +1,15 @@
+
+spring:
+  application:
+    name: dubbo-provider
+
+dubbo:
+  application:
+    qos-enable: false
+  scan:
+    base-packages: mercyblitz.tech.weekly.dubbo.arthas
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: nacos://127.0.0.1:8848

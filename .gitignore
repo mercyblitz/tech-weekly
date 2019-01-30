@@ -11,9 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
-*.nar
 *.ear
 *.zip
 *.tar.gz
@@ -22,4 +20,25 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+target
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
 .DS_Store
+Thumbs.db
