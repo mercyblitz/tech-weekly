@@ -30,6 +30,7 @@
 
 
 ## 往期录播
+- [2019.02.22 第十九期 - Apache Dubbo 微服务系列之Spring Cloud设计与实现](https://www.bilibili.com/video/av44423093)
 - [2019.01.25 第十八期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现总结](https://www.bilibili.com/video/av41832154)
 - [2019.01.18 第十七期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现（下）](https://www.bilibili.com/video/av41107520)
 - [2019.01.11 第十六期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现](https://www.bilibili.com/video/av40513576)
