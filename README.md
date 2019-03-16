@@ -31,6 +31,7 @@
 
 ## 往期录播
 
+- [2019.03.15 第二十一期 Apache Dubbo 微服务系列之网关整合](https://www.bilibili.com/video/av46476226)
 - [2019.03.01 第二十期 - Apache Dubbo 微服务系列之分布式事务 Fescar](https://www.bilibili.com/video/av45098855/)
 - [2019.02.22 第十九期 - Apache Dubbo 微服务系列之Spring Cloud设计与实现](https://www.bilibili.com/video/av44423093)
 - [2019.01.25 第十八期 - Apache Dubbo 微服务系列之 Dubbo Spring Cloud 实现总结](https://www.bilibili.com/video/av41832154)
