@@ -31,6 +31,7 @@
 
 ## 往期录播
 
+- [2019.04.12 第二十三期 - 面试虐我千百遍，Java 并发真讨厌（续）](https://www.bilibili.com/video/av49124110)
 - [2019.03.29 第二十二期 - Apache Dubbo 微服务系列之 ALL IN ONE](https://www.bilibili.com/video/av47712354)
 - [2019.03.15 第二十一期 - Apache Dubbo 微服务系列之网关整合](https://www.bilibili.com/video/av46476226)
 - [2019.03.01 第二十期 - Apache Dubbo 微服务系列之分布式事务 Fescar](https://www.bilibili.com/video/av45098855/)
