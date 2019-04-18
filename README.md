@@ -28,7 +28,7 @@
 ### 免费分享
 
 - [「小马哥技术周报」](https://www.douyu.com/mercyblitz)
-	- [斗鱼直播]((https://www.douyu.com/mercyblitz))
+	- [斗鱼直播](https://www.douyu.com/mercyblitz)
 	- [B 站录播](http://space.bilibili.com/327910845/channel/detail?cid=52311)
 - [「慕课网」](https://www.imooc.com/t/5387391)
 	- [Spring Boot 2.0深度实践-初遇Spring Boot](https://www.imooc.com/learn/933) 
