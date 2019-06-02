@@ -65,6 +65,7 @@
 
 ## 往期录播
 
+- [2019.05.31 第二十五期 - Java 自虐题精选](https://www.bilibili.com/video/av54202244)
 - [2019.04.28 第二十四期 - Spring Core 面试题精选](https://www.bilibili.com/video/av50576322)
 - [2019.04.12 第二十三期 - 面试虐我千百遍，Java 并发真讨厌（续）](https://www.bilibili.com/video/av49124110)
 - [2019.03.29 第二十二期 - Apache Dubbo 微服务系列之 ALL IN ONE](https://www.bilibili.com/video/av47712354)
