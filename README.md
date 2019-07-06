@@ -64,7 +64,7 @@
 
 
 ## 往期录播
-
+- [2019.07.05 第二十七期 Apache Dubbo 设计与实现系列之注解驱动](https://www.bilibili.com/video/av58004178)
 - [2019.06.29 第二十六期 - GIAC 2019 - Dubbo Spring Cloud 重塑微服务治理](https://www.bilibili.com/video/av57421314)
 - [2019.05.31 第二十五期 - Java 自虐题精选](https://www.bilibili.com/video/av54202244)
 - [2019.04.28 第二十四期 - Spring Core 面试题精选](https://www.bilibili.com/video/av50576322)
