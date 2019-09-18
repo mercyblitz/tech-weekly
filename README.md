@@ -64,6 +64,7 @@
 
 
 ## 往期录播
+- [2019.09.12 第三十一期 Apache Dubbo 设计与实现系列之 Spring Cloud 工程（中）](https://www.bilibili.com/video/av67520312)
 - [2019.09.07 第三十期 Apache Dubbo 设计与实现系列之 Spring Cloud 工程（上）](https://www.bilibili.com/video/av66869726)
 - [2019.08.09 第二十九期 - Apache Dubbo 设计与实现系列之 Spring Boot 工程](https://www.bilibili.com/video/av63033885)
 - [2019.07.26 第二十八期 - Apache Dubbo 设计与实现系列之外部化配置](https://www.bilibili.com/video/av60919327)
