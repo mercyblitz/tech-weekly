@@ -64,6 +64,7 @@
 
 
 ## 往期录播
+- [2019.09.27 第三十三期 - InfoQ 2019 中国（大陆） Java 发展趋势报告解读](https://www.bilibili.com/video/av69203663)
 - [2019.09.20 第三十二期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（下）](https://www.bilibili.com/video/av68453823)
 - [2019.09.12 第三十一期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（中）](https://www.bilibili.com/video/av67520312)
 - [2019.09.07 第三十期   - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（上）](https://www.bilibili.com/video/av66869726)
