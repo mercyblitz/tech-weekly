@@ -64,6 +64,7 @@
 
 
 ## 往期录播
+- [2019.11.01 第三十五期 - 阿里开源工程 Spring WebMVC 扩展之扩展 HandlerInterceptor](https://www.bilibili.com/video/av74195849)
 - [2019.10.11 第三十四期 - 阿里开源项目系列之 Spring Context 扩展工程](https://www.bilibili.com/video/av70943964)
 - [2019.09.27 第三十三期 - InfoQ 2019 中国（大陆） Java 发展趋势报告解读](https://www.bilibili.com/video/av69203663)
 - [2019.09.20 第三十二期 - Apache Dubbo 设计与实现系列之 Spring Cloud 工程（下）](https://www.bilibili.com/video/av68453823)
