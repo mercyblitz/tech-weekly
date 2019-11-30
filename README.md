@@ -64,6 +64,7 @@
 
 
 ## 往期录播
+- [2019.11.22 第三十七期 - Pivotal 技术峰会2019（北京站）见闻](https://www.bilibili.com/video/av76793947)
 - [2019.11.15 第三十六期 - 阿里开源工程 Spring WebMVC 扩展之内容协商](https://www.bilibili.com/video/av75800062)
 - [2019.11.01 第三十五期 - 阿里开源工程 Spring WebMVC 扩展之扩展 HandlerInterceptor](https://www.bilibili.com/video/av74195849)
 - [2019.10.11 第三十四期 - 阿里开源项目系列之 Spring Context 扩展工程](https://www.bilibili.com/video/av70943964)
