@@ -40,30 +40,28 @@
 
 ### 收费分享
 
-- [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
-> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
+- 极客时间
+  - [小马哥讲Spring核心编程思想](http://t.cn/AikTcHYq)
 
 - SegmentFault 直播
   - [《Java 微服务实践 - Spring Boot / Spring Cloud》](http://t.cn/RoC0nNi)
   - [《一入 Java 深似海》](http://t.cn/E6bTa9O)
 
-- 慕课视频
-  - [《Spring Boot 2.0深度实践之核心技术篇》](http://t.cn/ReChCU9)
-
 - 慕课网
     - [Spring Boot 2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
     - Spring Boot 2.0深度实践之生态整合篇（即将上线...）
+    
+ - [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
+> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
 
 
 ## 沟通交流
 
-- Apache Dubbo开源讨论群”群的钉钉群号： `21973601`
-- Spring Cloud Alibaba 开源讨论群”群的钉钉群号： `21914947`
-- Nacos社区群”群的钉钉群号： `21708933`
-- Sentinel开源讨论群”群的钉钉群号： `21977771`
+- 小马哥微信：mercyblitz-1985
 
 
 ## 往期录播
+- [2019.12.14 第三十九期 - 解读极客时间《小马哥讲 Spring 核心编程思想》目录大纲(https://www.bilibili.com/video/av79258535)
 - [2019.11.29 第三十八期 - 阿里开源工程 Spring Boot Web 扩展工程](https://www.bilibili.com/video/av77491862)
 - [2019.11.22 第三十七期 - Pivotal 技术峰会2019（北京站）见闻](https://www.bilibili.com/video/av76793947)
 - [2019.11.15 第三十六期 - 阿里开源工程 Spring WebMVC 扩展之内容协商](https://www.bilibili.com/video/av75800062)
