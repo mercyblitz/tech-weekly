@@ -61,7 +61,7 @@
 
 
 ## 往期录播
-- [2019.12.14 第三十九期 - 解读极客时间《小马哥讲 Spring 核心编程思想》目录大纲(https://www.bilibili.com/video/av79258535)
+- [2019.12.14 第三十九期 - 解读极客时间《小马哥讲 Spring 核心编程思想》目录大纲](https://www.bilibili.com/video/av79258535)
 - [2019.11.29 第三十八期 - 阿里开源工程 Spring Boot Web 扩展工程](https://www.bilibili.com/video/av77491862)
 - [2019.11.22 第三十七期 - Pivotal 技术峰会2019（北京站）见闻](https://www.bilibili.com/video/av76793947)
 - [2019.11.15 第三十六期 - 阿里开源工程 Spring WebMVC 扩展之内容协商](https://www.bilibili.com/video/av75800062)
