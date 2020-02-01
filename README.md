@@ -61,7 +61,8 @@
 
 
 ## 往期录播
-- [2020.01.17 第四十一期 小马哥讲Spring核心编程思想课程答疑 2020.01 期](https://www.bilibili.com/video/av83909646)
+- [2020.01.31 第四十二期 小马哥讲Spring核心编程思想课程答疑 2020.01 期（续）](https://www.bilibili.com/video/av86053609)
+- [2020.01.17 第四十一期 小马哥讲Spring核心编程思想课程答疑 2020.01 期](https://www.bilibili.com/video/av86052453)
 - [2019.12.31 跨年直播](https://segmentfault.com/ls/1650000021471857)
 - [2019.12.27 第四十期   - 阿里开源工程Velocity Spring Boot](https://www.bilibili.com/video/av80903598)
 - [2019.12.14 第三十九期 - 解读极客时间《小马哥讲 Spring 核心编程思想》目录大纲](https://www.bilibili.com/video/av79258535)
