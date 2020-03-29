@@ -61,6 +61,8 @@
 
 
 ## 往期录播
+- [2020.03.13 第四十四期 《小马哥讲Spring核心编程思想课程答疑 2020.03 期》](https://www.bilibili.com/video/BV1gE41137Xc)
+- [2020.02.29 第四十三期《小马哥讲Spring核心编程思想课程答疑 2020.02 期》](https://www.bilibili.com/video/BV1RE41177Yx)
 - [2020.01.31 第四十二期 小马哥讲Spring核心编程思想课程答疑 2020.01 期（续）](https://www.bilibili.com/video/av86053609)
 - [2020.01.17 第四十一期 小马哥讲Spring核心编程思想课程答疑 2020.01 期](https://www.bilibili.com/video/av86052453)
 - [2019.12.31 跨年直播](https://segmentfault.com/ls/1650000021471857)
