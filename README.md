@@ -1,7 +1,7 @@
 # 「小马哥技术周报」
 
-「小马哥技术周报」是小马哥在斗鱼平台的技术分享直播，通常时间安排在每周五晚上八点半，具体通知请关注微信公众号：
-- `次灵均阁`
+「小马哥技术周报」是小马哥的线上技术直播分享，通常每一到两周直播一次，具体通知请关注微信公众号：
+- `小马哥的时间与精神小屋`
 
 <img src="https://mercyblitz.github.io/books/thinking-in-spring-boot/assets/my_mp_qrcode.jpg" width="150" height="150" align="middle"></img>
 
@@ -14,53 +14,12 @@
 
 
 
-## 著书
-
-- [《Spring Boot 编程思想》](/books/thinking-in-spring-boot/)
-  - [《核心篇》](https://mercyblitz.github.io/books/thinking-in-spring-boot/core/preface/)（[订购](https://item.jd.com/12570242.html)）
-  - 《运维篇》（即将完稿…)
-  - 《Web 篇》(编写中…)
-
-
-
-## 线上分享
-
-### 免费分享
-
-- [「小马哥技术周报」](https://www.douyu.com/mercyblitz)
-	- [斗鱼直播](https://www.douyu.com/mercyblitz)
-	- [B 站录播](http://space.bilibili.com/327910845/channel/detail?cid=52311)
-- [「慕课网」](https://www.imooc.com/t/5387391)
-	- [Spring Boot 2.0深度实践-初遇Spring Boot](https://www.imooc.com/learn/933) 
-  - [Spring Boot 2.0深度实践之系列总览](https://www.imooc.com/learn/1058)
-- [「SegmentFault」](https://segmentfault.com/u/mercyblitz)
-	- [「小马哥 2019 跨年直播」一入 Java 深似海，从此“劝退”成必然](https://mp.weixin.qq.com/s?__biz=MzIxNDU4NjE1OQ==&mid=2247484085&idx=1&sn=5905f53e69bae9d48b3783a83bde40b3)	
-
-
-
-### 收费分享
-
-- 极客时间
-  - [小马哥讲Spring核心编程思想](http://t.cn/AikTcHYq)
-
-- SegmentFault 直播
-  - [《Java 微服务实践 - Spring Boot / Spring Cloud》](http://t.cn/RoC0nNi)
-  - [《一入 Java 深似海》](http://t.cn/E6bTa9O)
-
-- 慕课网
-    - [Spring Boot 2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
-    - Spring Boot 2.0深度实践之生态整合篇（即将上线...）
-    
- - [「小马哥 Java 知识星球」](http://t.cn/RnxUYzd)
-> 深入探讨 Java 相关技术，包括行业动态，架构设计，设计模式，框架使用，源码分析等。
-
-
-## 沟通交流
-
-- 小马哥微信：mercyblitz-1985
+## [个人信息](https://mercyblitz.github.io/about/)
 
 
 ## 往期录播
+- [2021.12.19 第四十六期 《Log4j2 高风险漏洞的来龙去脉》](https://www.bilibili.com/video/BV1gE41137Xc)
+- [2020.09.04 第四十五期 《阿里巴巴 Java 开发手册（嵩山版）之命名风格》](https://www.bilibili.com/video/BV1ZC4y1t7cy)
 - [2020.03.13 第四十四期 《小马哥讲Spring核心编程思想课程答疑 2020.03 期》](https://www.bilibili.com/video/BV1gE41137Xc)
 - [2020.02.29 第四十三期《小马哥讲Spring核心编程思想课程答疑 2020.02 期》](https://www.bilibili.com/video/BV1RE41177Yx)
 - [2020.01.31 第四十二期 小马哥讲Spring核心编程思想课程答疑 2020.01 期（续）](https://www.bilibili.com/video/av86053609)
