@@ -18,6 +18,10 @@
 
 
 ## 往期录播
+- [2023.04.22 第五十期《小马哥讲Spring核心编程思想课程答疑 2023.02 期》](https://www.bilibili.com/video/BV1ET411H7ys)
+- [2023.04.18 第四十九期《小马哥讲Spring核心编程思想课程答疑 2023.01 期》](https://www.bilibili.com/video/BV1eV4y1o76B)
+- [2023.04.13 第四十八期《2023年 Java 行业还有希望吗？》](https://www.bilibili.com/video/BV1Ws4y1d7tD)
+- [2023.04.08 第四十七期《现在的 Java 培训是割韭菜？》](https://www.bilibili.com/video/BV1uv4y1E7Mw)
 - [2021.12.19 第四十六期 《Log4j2 高风险漏洞的来龙去脉》](https://www.bilibili.com/video/BV1gE41137Xc)
 - [2020.09.04 第四十五期 《阿里巴巴 Java 开发手册（嵩山版）之命名风格》](https://www.bilibili.com/video/BV1ZC4y1t7cy)
 - [2020.03.13 第四十四期 《小马哥讲Spring核心编程思想课程答疑 2020.03 期》](https://www.bilibili.com/video/BV1gE41137Xc)
