@@ -18,6 +18,7 @@
 
 
 ## 往期录播
+- [2023.04.25 第五十一期《小马哥讲Spring核心编程思想课程答疑 2023.03 期》](https://www.bilibili.com/video/BV1XX4y1m7MV)
 - [2023.04.22 第五十期《小马哥讲Spring核心编程思想课程答疑 2023.02 期》](https://www.bilibili.com/video/BV1ET411H7ys)
 - [2023.04.18 第四十九期《小马哥讲Spring核心编程思想课程答疑 2023.01 期》](https://www.bilibili.com/video/BV1eV4y1o76B)
 - [2023.04.13 第四十八期《2023年 Java 行业还有希望吗？》](https://www.bilibili.com/video/BV1Ws4y1d7tD)
