@@ -133,9 +133,214 @@ APM<br />压测 + JVM 优化（Oracle）<br />深入到各种中间件<br />精�
 # 留言板
 <a name="Zmaf4"></a>
 ## 留言一：小马哥 能讲讲如何设计一个中间件 需要哪些知识 原理方法思想？
+<a name="burog"></a>
+### 常见问题
+在很多 Java 应用中，很多开发人员喜欢使用 INFO 级别作为日志？导致应用日志过多，可能会出现发运维警告！<br />具体问题一：修改成其他级别，修改成本高，开发不乐意，测试不同意<br />解决方案：
+
+- 下策：修改代码 INFO -> DEBUG
+- 中策：修改 Logging 配置级别， INFO -> WARN
+- 上策：不修改代码和配置，能够屏蔽部分 INFO 日志，并且能够实时生效
+
+JMX 管理
+
+- java.util.logging.LoggingMXBean 适配所有的框架
+   - log4j
+   - log4j2
+   - logback
+   - Java Logging
+- 运维后台
+- 不足：依赖和整合
+
+<a name="VyHsQ"></a>
+#### Use Case 1：
+```java
+private static final Logger logger = LoggerFactory.getLogger("com.acme.TestLogger");
+
+logger.info("ABC"); // logger name = "com.acme.TestLogger" - DENY
+```
+<a name="Gb9uN"></a>
+##### 分析
+logger name 可以：
+
+- 精确匹配
+- 模糊匹配
+- 正则表达式匹配
+
+组合规则（组合模式）：
+
+- logger name  和 logger level
+   - 操作符：与、或、异或
+<a name="lLKJg"></a>
+##### Action（行动）
+
+- 举个目前场景找方案
+   - log4j（5%）
+   - log4j2（70%）
+   - logback（20%)
+   - Java Logging（5%）
+- 优先处理
+   - log4j2
+   - logback
+   - log4j（可选）
+   - Java Logging（可选）
+- 方案一般流程
+   - 是否有现存方案
+      - log4j2 - RegexFilter
+      - logback - Filters - TurboFilter
+      - Java Logging - java.util.logging.Filter
+   - 整合到目标框架
+   - 分析方案
+      - 整合现状
+         - Servlet 容器（90%）
+            - Servlet 配置 - web.xml
+         - Spring 容器（80%）
+            - PropertySource
+            - Spring Boot
+               - application.properties
+         - EJB 容器（5%）
+            - @EJB
+            - 配置
+      - 框架支持程度
+         - 寻找“最大公约数”
+            - log4j2 - org.apache.logging.log4j.core.Filter
+               - 方法 - filter
+               - 参数
+                  - Logger
+                  - Level
+                  - Marker
+                  - 日志内容（String msg）
+                  - 日志参数（Object[] params）
+               - 返回类型 - Result
+                  - ACCEPT
+                  - NEUTRAL
+                  - DENY
+            - logback - ch.qos.logback.classic.turbo.TurboFilter
+               - 方法 - decide
+               - 参数
+                  - Marker
+                  - Logger
+                  - Level
+                  - 日志内容（String msg）
+                  - 日志参数（Object[] params）
+                  - Throwable
+               - 返回类型 - FilterReply
+                  - DENY
+                  - NEUTRAL
+                  - ACCEPT
+            - Java Logging - java.util.logging.Filter
+               - 方法 - filter
+               - 参数 - LogRecord
+                  - Level
+                  - sequenceNumber
+                  - sourceClassName
+                  - sourceMethodName
+                  - 日志内容（String message）
+                  - ...
+                  - 日志名称（String loggerName）
+               - 返回类型 - boolean
+            - log4j - org.apache.log4j.spi.Filter
+               - 方法 - filter
+               - 参数 - LoggingEvent
+                  - 日志（Category）
+                  - 日志名称（categoryName）
+                  - 日志级别（Priority）
+                  - 日志内容（Object message）
+                  - ...
+               - 返回类型 - int
+                  - DENY = -1
+                  - NEUTRAL = 0
+                  - ACCEPT = 1
+            - “最大公约数”
+               - 参数
+                  - 日志名称（String loggerName）
+                  - 日志级别（String level）
+                  - 日志内容（Object message）
+               - 方法类型 - Filter.Result
+            - 接口定义
+```java
+public interface Filter {
+
+    /**
+     * @param loggerName the logging name
+     * @param level      the logging level
+     * @param message    logging message or logging message pattern
+     * @return {@link Result#ACCEPT} or {@link Result#NEUTRAL} or {@link Result#DENY}
+     */
+    Result filter(String loggerName, String level, String message);
+
+    /**
+     * The result of {@link Filter}
+     */
+    enum Result {
+
+        ACCEPT,
+        NEUTRAL,
+        DENY
+    }
+}
+```
+
+   - 交付方案
+      - 下策：给应用负责人日志相关的文档（折腾用户，体现不了“我们”的价值）
+      - 中策：log4j2 和 logback 以及其他实现统一的逻辑（部分折腾用户）
+      - 上策：定制一套规则，适配所有日志框架（不折腾用户，实现标准化）
+   - 实现路径
+      - 定义配置资源路径
+      - 提供获取配置资源路径 API
+      - 定义配置资源内容
+      - 无缝植入通用 Logging Filter 代码
+         - log4j2
+            - Filter -> Appender
+            - 如何拿到所有的 Appenders
+               - N Loggers -> M Appenders -> X Filters
+               - Appender -> Filter
+                  - 如果 Filter == null，说明没有关联过 Filter
+                     - 直接设置指定 Filter
+                  - 如果 Filter != null，说明已关联过 Filter
+                     - 拿到已关联的 Filter，插入到 CompositeFilter，再将指定 Filter 插入 CompositeFilter，将该 CompositeFilter 反向关联到 Appender
+                        - CompositeFilter[0] = Old Filter
+                        - CompositeFilter[1] = New Filter
+
 <a name="dfKLS"></a>
 ## 留言二：有什么书籍推荐和阅读顺序？
 <a name="JinFw"></a>
 ## 留言三：想看小马哥写代码
+
+
+<a name="DdSnu"></a>
+## 许同学
+<a name="XHR8V"></a>
+### 基本情况
+
+- 非科班出身
+- 面试感觉良好
+- BI
+- 学历不理想
+
+自己项目来做职业敲门砖？<br />HuTool<br />MyBatis Plus<br />XXL-Jobs
+
+<a name="hlnSn"></a>
+### 行业方向
+
+- 上层业务
+- 底层技术
+
+现状，发现问题，解决问题 -> 优雅解决问题
+
+IoT
+
+<a name="X59dC"></a>
+## 老三
+学历问题<br />IoT 专业背景
+
+
+
+<a name="ZoZ1k"></a>
+## 小马哥内容输出
+<a name="XPL5H"></a>
+### Java 训练营继续 - 第三期、第四期
+<a name="QH6Vr"></a>
+### Java 基础 - 通过场景来学习技术
+和工作密切相关（常见问题）
 
 
