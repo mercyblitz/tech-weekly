@@ -18,6 +18,7 @@
 
 
 ## 往期录播
+- [2023.05.12 第五十三期《降本增效浪潮下，还有必要卷吗？》](https://www.bilibili.com/video/BV1Wk4y1x7b8)
 - [2023.05.11 第五十二期《职场困惑和职业规划 2023.01 期（续）》](https://www.bilibili.com/video/BV1Nm4y1a7V1)
 - [2023.05.09 第五十二期《职场困惑和职业规划 2023.01 期》](https://www.bilibili.com/video/BV1LL411h7cX)
 - [2023.04.25 第五十一期《小马哥讲Spring核心编程思想课程答疑 2023.03 期》](https://www.bilibili.com/video/BV1XX4y1m7MV)
