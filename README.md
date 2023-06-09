@@ -18,6 +18,8 @@
 
 
 ## 往期录播
+- [2023.06.08 第五十五期：Spring 容器并行 Bean 初始化设计与实现](https://www.bilibili.com/video/BV1fP411D7t6)
+- [2023.06.06 第五十四期：训练营学员定制化需求](https://www.bilibili.com/video/BV1Gh4y1R7Fz)
 - [2023.05.24 第五十三期《降本增效浪潮下，还有必要卷吗？》](https://www.bilibili.com/video/BV1Wk4y1x7b8)
 - [2023.05.11 第五十二期《职场困惑和职业规划 2023.01 期（续）》](https://www.bilibili.com/video/BV1Nm4y1a7V1)
 - [2023.05.09 第五十二期《职场困惑和职业规划 2023.01 期》](https://www.bilibili.com/video/BV1LL411h7cX)
