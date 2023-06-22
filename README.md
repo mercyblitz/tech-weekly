@@ -18,6 +18,9 @@
 
 
 ## 往期录播
+- [2023.06.20 第五十七期：训练营学员定制化需求（二）（下)](https://www.bilibili.com/video/BV19a4y1w7wV) 
+- [2023.06.20 第五十七期：训练营学员定制化需求（二）（上)](https://www.bilibili.com/video/BV1Zz4y1n7MM) 
+- [2023.06.14 第五十六期：Spring 容器并行 Bean 生命周期处理实现](https://www.bilibili.com/video/BV1RM4y1J7PY)
 - [2023.06.08 第五十五期：Spring 容器并行 Bean 初始化设计与实现](https://www.bilibili.com/video/BV1fP411D7t6)
 - [2023.06.06 第五十四期：训练营学员定制化需求](https://www.bilibili.com/video/BV1Gh4y1R7Fz)
 - [2023.05.24 第五十三期《降本增效浪潮下，还有必要卷吗？》](https://www.bilibili.com/video/BV1Wk4y1x7b8)
