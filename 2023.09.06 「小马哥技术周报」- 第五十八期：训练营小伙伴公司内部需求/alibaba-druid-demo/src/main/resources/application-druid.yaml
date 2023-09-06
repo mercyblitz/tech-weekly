@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:13306/test_db
+    user-name: root
+    password: 123456
+    druid:
+      name: my-druid-datasource
+      initial-size: 10
+      max-active: 100
+      min-idle: 2
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

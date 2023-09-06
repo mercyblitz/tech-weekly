@@ -1,0 +1,2 @@
+com.example.alibaba.druid.autoconfigure.DruidDataSourceMetadataProviderAutoConfiguration
+com.example.alibaba.druid.autoconfigure.DruidDataSourceMetricsAutoConfiguration
