@@ -20,9 +20,9 @@
 ## 往期录播
 - [2024.03.15 第六十八期：3.15 前阿里员工期权维权](https://www.bilibili.com/video/BV12z421f7qP)
 - [2024.01.19 第六十七期：解读《Apache Dubbo 下一代云原生微服务挑战赛》](#) TODO
-- [2023.12.26 第六十六期：2023 跨年预热直播](#) TODO
-- [2023.12.13 第六十五期：防御性编程正确姿势](#) TODO
-- [2023.11.29 第六十四期：本周热门事件](#) TODO
+- [2023.12.26 第六十六期：2023 跨年预热直播](https://www.bilibili.com/video/BV1cx421k7dG) TODO
+- [2023.12.13 第六十五期：防御性编程正确姿势](https://www.bilibili.com/video/BV1Zu4m1M7YY)
+- [2023.11.29 第六十四期：本周热门事件](https://www.bilibili.com/video/BV1kH4y1s73G)
 - [2023.11.08 第六十三期：生产环境 G1 FullGC 问题排查](https://www.bilibili.com/video/BV19j421d7ew)
 - [2023.10.24 第六十二期：近年重大线上故障分析](https://www.bilibili.com/video/BV1kJ4m1h7pk)
 - 2023.10.10 第六十一期：Java 行业现状与职业规划 [（1）](https://bilibili.com/video/BV12G41117MN) [（2）](https://bilibili.com/video/BV1Qg4y127gy)
