@@ -18,8 +18,9 @@
 
 
 ## 往期录播
+- [2024.03.20 第六十九期：小马哥 Java 分布式训练营第四期作业点评](https://www.bilibili.com/video/BV1m1421U7Gr)
 - [2024.03.15 第六十八期：3.15 前阿里员工期权维权](https://www.bilibili.com/video/BV12z421f7qP)
-- [2024.01.19 第六十七期：解读《Apache Dubbo 下一代云原生微服务挑战赛》](#) TODO
+- [2024.01.19 第六十七期：解读《Apache Dubbo 下一代云原生微服务挑战赛》](https://www.bilibili.com/video/BV17H4y1p7FY) 
 - [2023.12.26 第六十六期：2023 跨年预热直播](https://www.bilibili.com/video/BV1cx421k7dG) 
 - [2023.12.13 第六十五期：防御性编程正确姿势](https://www.bilibili.com/video/BV1Zu4m1M7YY)
 - [2023.11.29 第六十四期：本周热门事件](https://www.bilibili.com/video/BV1kH4y1s73G)
