@@ -164,7 +164,7 @@ Oracle JDK < 11.0.1、8u191、7u201、6u211
 
 ### 特性 - Lookups
 
-#### JDNI Lookup
+#### JNDI Lookup
 
 https://logging.apache.org/log4j/2.x/manual/lookups.html#JndiLookup
 
