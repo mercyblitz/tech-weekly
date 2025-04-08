@@ -18,6 +18,20 @@
 
 
 ## 往期录播
+- [2024.03.20 第六十九期：小马哥 Java 分布式训练营第四期作业点评](https://www.bilibili.com/video/BV1m1421U7Gr)
+- [2024.03.15 第六十八期：3.15 前阿里员工期权维权](https://www.bilibili.com/video/BV12z421f7qP)
+- [2024.01.19 第六十七期：解读《Apache Dubbo 下一代云原生微服务挑战赛》](https://www.bilibili.com/video/BV17H4y1p7FY) 
+- [2023.12.26 第六十六期：2023 跨年预热直播](https://www.bilibili.com/video/BV1cx421k7dG) 
+- [2023.12.13 第六十五期：防御性编程正确姿势](https://www.bilibili.com/video/BV1Zu4m1M7YY)
+- [2023.11.29 第六十四期：本周热门事件](https://www.bilibili.com/video/BV1kH4y1s73G)
+- [2023.11.08 第六十三期：生产环境 G1 FullGC 问题排查](https://www.bilibili.com/video/BV19j421d7ew)
+- [2023.10.24 第六十二期：近年重大线上故障分析](https://www.bilibili.com/video/BV1kJ4m1h7pk)
+- 2023.10.10 第六十一期：Java 行业现状与职业规划 [（1）](https://bilibili.com/video/BV12G41117MN) [（2）](https://bilibili.com/video/BV1Qg4y127gy)
+- [2023.09.22 第六十期：Java 21 主要特性变化](https://www.bilibili.com/video/BV1z8411y7Kx)
+- [2023.09.08 第五十九期：跨区域 Eureka 注册中心设计](https://bilibili.com/video/BV14z4y157oP)
+- [2023.09.06 第五十八期：训练营小伙伴公司内部需求 - Alibaba Druid x Prometheus + Grafana](https://www.bilibili.com/video/BV1v94y1x7Lg)
+- 2023.06.20 第五十七期：训练营学员定制化需求（二）[（上）](https://www.bilibili.com/video/BV1Zz4y1n7MM)  [（下）](https://www.bilibili.com/video/BV19a4y1w7wV) 
+- [2023.06.14 第五十六期：Spring 容器并行 Bean 生命周期处理实现](https://www.bilibili.com/video/BV1RM4y1J7PY)
 - [2023.06.08 第五十五期：Spring 容器并行 Bean 初始化设计与实现](https://www.bilibili.com/video/BV1fP411D7t6)
 - [2023.06.06 第五十四期：训练营学员定制化需求](https://www.bilibili.com/video/BV1Gh4y1R7Fz)
 - [2023.05.24 第五十三期《降本增效浪潮下，还有必要卷吗？》](https://www.bilibili.com/video/BV1Wk4y1x7b8)
